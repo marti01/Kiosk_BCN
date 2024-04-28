@@ -1,0 +1,989 @@
+{
+  "pages": {
+    "page_0": {
+      "id": "page_0",
+      "mode": "FIT_WINDOW",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_0",
+        "MEDIUM": "layout_15",
+        "SMALL": "layout_18"
+      },
+      "isDefault": true,
+      "isVisible": true,
+      "header": false,
+      "label": "Página"
+    }
+  },
+  "layouts": {
+    "layout_0": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_1",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_12": {
+      "type": "FIXED"
+    },
+    "layout_13": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_2",
+          "bbox": {
+            "left": "74.1%",
+            "right": "2.4%",
+            "top": "50%",
+            "bottom": "5.2%",
+            "width": "23.5%",
+            "height": "92.8%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": true
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_8",
+          "bbox": {
+            "left": "6.2%",
+            "right": "68.7%",
+            "top": "1.7%",
+            "bottom": "76.6%",
+            "width": "25.1%",
+            "height": "21.7%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "type": "FIXED",
+      "order": [
+        "0",
+        "1"
+      ],
+      "label": "Map FixedLayout"
+    },
+    "layout_14": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "19px",
+            "right": "5.8%",
+            "top": "13.7%",
+            "bottom": "67.4%",
+            "width": "87.9%",
+            "height": "18.9%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "widgetId": "widget_5"
+        },
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_6",
+          "bbox": {
+            "left": "5.7%",
+            "right": "5.9%",
+            "top": "36.0%",
+            "bottom": "1.6%",
+            "width": "88.4%",
+            "height": "62.4%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": true,
+              "left": false,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "2": {
+          "type": "WIDGET",
+          "widgetId": "widget_9",
+          "bbox": {
+            "left": "5.0%",
+            "right": "5.3%",
+            "top": "2.3%",
+            "bottom": "87.0%",
+            "width": "89.7%",
+            "height": "10.7%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "type": "FIXED",
+      "order": [
+        "0",
+        "1",
+        "2"
+      ],
+      "label": "Default"
+    },
+    "layout_15": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_1",
+          "bbox": {
+            "left": "0%",
+            "right": "0%",
+            "top": "0%",
+            "bottom": "0%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_16": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_3",
+          "bbox": {
+            "left": "50%",
+            "right": "2.00%",
+            "top": "50%",
+            "bottom": "2.00%",
+            "width": "96.00%",
+            "height": "25.00%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": true,
+              "left": false,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": true
+          }
+        }
+      },
+      "type": "FIXED",
+      "order": [
+        "0"
+      ],
+      "label": "Map FixedLayout"
+    },
+    "layout_17": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0%",
+            "right": "0%",
+            "top": "0%",
+            "bottom": "0%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "type": "FIXED",
+      "order": [
+        "0"
+      ],
+      "label": "Default"
+    },
+    "layout_18": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_1",
+          "bbox": {
+            "left": "0%",
+            "right": "0%",
+            "top": "0%",
+            "bottom": "0%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_19": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_4",
+          "bbox": {
+            "left": "50%",
+            "right": "2.00%",
+            "top": "50%",
+            "bottom": "1.00%",
+            "width": "75.00%",
+            "height": "25.00%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": true,
+              "left": false,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": true
+          }
+        }
+      },
+      "type": "FIXED",
+      "order": [
+        "0"
+      ],
+      "label": "Map FixedLayout"
+    },
+    "layout_20": {
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0%",
+            "right": "0%",
+            "top": "0%",
+            "bottom": "0%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "type": "FIXED",
+      "order": [
+        "0"
+      ],
+      "label": "Default"
+    },
+    "layout_21": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_7",
+          "setting": {
+            "lockParent": true,
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            }
+          },
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "18.6%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "81.4%"
+          }
+        }
+      },
+      "order": [
+        "0"
+      ],
+      "label": "Default"
+    }
+  },
+  "exbVersion": "1.14.0",
+  "mainSizeMode": "LARGE",
+  "theme": "themes/default/",
+  "forBuilderAttributes": {
+    "lockLayout": false
+  },
+  "template": "pocket",
+  "widgets": {
+    "widget_1": {
+      "uri": "widgets/arcgis/arcgis-map/",
+      "version": "1.14.0",
+      "config": {
+        "toolConfig": {
+          "canZoom": true,
+          "canHome": true,
+          "canSearch": false,
+          "canNavigation": true
+        },
+        "isUseCustomMapState": false,
+        "layoutIndex": 0,
+        "disablePopUp": true,
+        "showPopupUponSelection": false
+      },
+      "id": "widget_1",
+      "layouts": {
+        "MapFixedLayout": {
+          "LARGE": "layout_13",
+          "MEDIUM": "layout_16",
+          "SMALL": "layout_19"
+        }
+      },
+      "label": "Mapa",
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_1",
+          "mainDataSourceId": "dataSource_1"
+        }
+      ]
+    },
+    "widget_2": {
+      "uri": "widgets/layout/fixed/",
+      "version": "1.14.0",
+      "config": null,
+      "id": "widget_2",
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_14"
+        }
+      },
+      "style": {
+        "background": {
+          "color": "rgba(240,240,240,0.8)",
+          "fillType": "fill"
+        }
+      },
+      "label": "Panel fijo"
+    },
+    "widget_3": {
+      "uri": "widgets/layout/fixed/",
+      "version": "1.14.0",
+      "config": null,
+      "id": "widget_3",
+      "style": {
+        "background": {
+          "color": "rgba(240,240,240,0.8)",
+          "fillType": "fill"
+        }
+      },
+      "layouts": {
+        "DEFAULT": {
+          "MEDIUM": "layout_17"
+        }
+      },
+      "label": "Panel fijo 2"
+    },
+    "widget_4": {
+      "uri": "widgets/layout/fixed/",
+      "version": "1.14.0",
+      "config": null,
+      "id": "widget_4",
+      "style": {
+        "background": {
+          "color": "rgba(240,240,240,0.8)",
+          "fillType": "fill"
+        }
+      },
+      "layouts": {
+        "DEFAULT": {
+          "SMALL": "layout_20"
+        }
+      },
+      "label": "Panel fijo 3"
+    },
+    "widget_5": {
+      "uri": "widgets/common/text/",
+      "version": "1.14.0",
+      "label": "Texto",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><strong style=\"color: var(--success-900); font-size: 18px;\"><exp data-uniqueid=\"7880a357_8a7a_2e3b_7f81_81cb7a915cda\" data-dsid=\"dataSource_1-18f17086871-layer-20\" data-expression=\"%7B%22name%22%3A%22%7Baddresses_road_name%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7Baddresses_road_name%7D%22%2C%22dataSourceId%22%3A%22dataSource_1-18f17086871-layer-20-selection%22%2C%22jimuFieldName%22%3A%22addresses_road_name%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿{addresses_road_name}﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></strong>  <strong style=\"color: var(--success-900); font-size: 18px;\"><exp data-uniqueid=\"c851d46c_03a9_5260_a9f0_3dd89a349174\" data-dsid=\"dataSource_1-18f17086871-layer-20\" data-expression=\"%7B%22name%22%3A%22%7Baddresses_start_street_number%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7Baddresses_start_street_number%7D%22%2C%22dataSourceId%22%3A%22dataSource_1-18f17086871-layer-20-selection%22%2C%22jimuFieldName%22%3A%22addresses_start_street_number%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿{addresses_start_street_number}﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></strong> </p><p style=\"text-align: center;\"><exp data-uniqueid=\"5195d30e_5445_b239_708b_7330412af9f0\" data-dsid=\"dataSource_1-18f17086871-layer-20\" data-expression=\"%7B%22name%22%3A%22%7Binstitution_name%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7Binstitution_name%7D%22%2C%22dataSourceId%22%3A%22dataSource_1-18f17086871-layer-20-selection%22%2C%22jimuFieldName%22%3A%22institution_name%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">{institution_name}</span>﻿</exp> </p><p style=\"text-align: center;\"><em style=\"font-size: 15px; color: var(--dark-700);\"><exp data-uniqueid=\"b0330b79_3d22_036b_6247_a0ccee13b230\" data-dsid=\"dataSource_1-18f17086871-layer-20\" data-expression=\"%7B%22name%22%3A%22%7Baddresses_neighborhood_name%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7Baddresses_neighborhood_name%7D%22%2C%22dataSourceId%22%3A%22dataSource_1-18f17086871-layer-20-selection%22%2C%22jimuFieldName%22%3A%22addresses_neighborhood_name%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿{addresses_neighborhood_name}﻿﻿﻿﻿</span>﻿</exp></em> </p><p style=\"text-align: center;\"><em style=\"font-size: 15px; color: var(--dark-700);\"><exp data-uniqueid=\"b5d2bd31_6c12_13e5_ccaf_e3998b3e3d9c\" data-dsid=\"dataSource_1-18f17086871-layer-20\" data-expression=\"%7B%22name%22%3A%22%7Baddresses_zip_code%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7Baddresses_zip_code%7D%22%2C%22dataSourceId%22%3A%22dataSource_1-18f17086871-layer-20-selection%22%2C%22jimuFieldName%22%3A%22addresses_zip_code%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿{addresses_zip_code}﻿﻿﻿</span>﻿</exp></em>  </p><p style=\"text-align: center;\"><em style=\"font-size: 15px; color: var(--dark-700);\"><exp data-uniqueid=\"fe7aed80_c7cd_17ef_ea32_9c4f02ad85b3\" data-dsid=\"dataSource_1-18f17086871-layer-20\" data-expression=\"%7B%22name%22%3A%22%7Baddresses_town%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7Baddresses_town%7D%22%2C%22dataSourceId%22%3A%22dataSource_1-18f17086871-layer-20-selection%22%2C%22jimuFieldName%22%3A%22addresses_town%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿{addresses_town}﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></em> </p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_5",
+      "style": {
+        "background": {
+          "color": "var(--secondary-300)",
+          "fillType": "fill",
+          "image": {
+            "url": ""
+          }
+        }
+      },
+      "useDataSourcesEnabled": true,
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_1-18f17086871-layer-20",
+          "mainDataSourceId": "dataSource_1-18f17086871-layer-20",
+          "rootDataSourceId": "dataSource_1",
+          "fields": [
+            "addresses_road_name",
+            "addresses_start_street_number",
+            "institution_name",
+            "addresses_neighborhood_name",
+            "addresses_zip_code",
+            "addresses_town"
+          ]
+        }
+      ]
+    },
+    "widget_6": {
+      "uri": "widgets/common/list/",
+      "version": "1.14.0",
+      "label": "Lista",
+      "config": {
+        "maxItems": 100,
+        "space": 10,
+        "verticalSpace": 10,
+        "horizontalSpace": 10,
+        "itemsPerPage": 10,
+        "isItemStyleConfirm": true,
+        "isInitialed": true,
+        "pageStyle": "SCROLL",
+        "itemStyle": "STYLE5",
+        "hoverType": "HOVER0",
+        "selectedStyle": "STYLE0",
+        "differentOddEven": false,
+        "scrollBarOpen": true,
+        "direction": "VERTICAL",
+        "alignType": "CENTER",
+        "scrollStep": 2,
+        "cardConfigs": {
+          "DEFAULT": {
+            "cardSize": {
+              "LARGE": {
+                "width": 264.8984375,
+                "height": 111
+              }
+            },
+            "enable": true,
+            "backgroundStyle": {
+              "border": {
+                "type": "solid",
+                "color": "var(--light-400)",
+                "width": "1px"
+              }
+            },
+            "listLayout": "Custom"
+          },
+          "HOVER": {
+            "cardSize": {
+              "LARGE": {
+                "width": 264.8984375,
+                "height": 111
+              }
+            },
+            "enable": false,
+            "backgroundStyle": {
+              "border": {
+                "type": "solid",
+                "color": "var(--light-400)",
+                "width": "1px"
+              }
+            },
+            "listLayout": "Auto"
+          },
+          "SELECTED": {
+            "cardSize": {
+              "LARGE": {
+                "width": 264.8984375,
+                "height": 111
+              }
+            },
+            "backgroundStyle": {
+              "border": {
+                "type": "solid",
+                "color": "var(--primary-500)",
+                "width": "1px"
+              }
+            },
+            "selectionMode": "MULTIPLE",
+            "listLayout": "Auto"
+          }
+        },
+        "style": {
+          "id": "default"
+        },
+        "isCheckEmptyTemplate": false,
+        "filters": null,
+        "isShowAutoRefresh": false,
+        "layoutType": "ROW",
+        "keepAspectRatio": false,
+        "sqlExprObj": null,
+        "sortFields": null
+      },
+      "id": "widget_6",
+      "useDataSourcesEnabled": true,
+      "layouts": {
+        "DEFAULT": {
+          "LARGE": "layout_21"
+        },
+        "SELECTED": {}
+      },
+      "dataActions": {
+        "showOnMap": {
+          "config": {
+            "isUseCustomSymbol": true,
+            "symbolOption": {
+              "pointSymbol": {
+                "type": "esriSMS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "angle": 0,
+                "xoffset": 0,
+                "yoffset": 0,
+                "size": 12,
+                "style": "esriSMSCircle",
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                }
+              },
+              "polylineSymbol": {
+                "type": "esriSLS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "width": 0.75,
+                "style": "esriSLSSolid"
+              },
+              "polygonSymbol": {
+                "type": "esriSFS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                },
+                "style": "esriSFSSolid"
+              }
+            }
+          },
+          "enabled": false
+        },
+        "dataStatistics": {
+          "enabled": false
+        },
+        "setFilter": {
+          "enabled": false
+        },
+        "panTo": {
+          "enabled": false
+        }
+      },
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_1-18f17086871-layer-20",
+          "mainDataSourceId": "dataSource_1-18f17086871-layer-20",
+          "rootDataSourceId": "dataSource_1",
+          "fields": []
+        }
+      ],
+      "outputDataSources": [],
+      "style": {
+        "background": {
+          "color": "var(--warning-200)",
+          "fillType": "fill"
+        },
+        "borderRadius": null,
+        "border": {
+          "color": null,
+          "type": "solid",
+          "width": "2px"
+        },
+        "boxShadow": {
+          "presetStyle": "shadow-sm"
+        }
+      },
+      "enableDataAction": false
+    },
+    "widget_7": {
+      "uri": "widgets/common/text/",
+      "version": "1.14.0",
+      "label": "Texto 2",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><span style=\"font-size: 14px;\"><exp data-uniqueid=\"691d09ce_ebb0_e8e6_b7e6_8f6c0662805a\" data-dsid=\"dataSource_1-18f17086871-layer-20-selection\" data-expression=\"%7B%22name%22%3A%22%7Baddresses_road_name%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7Baddresses_road_name%7D%22%2C%22dataSourceId%22%3A%22dataSource_1-18f17086871-layer-20-selection%22%2C%22jimuFieldName%22%3A%22addresses_road_name%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿{addresses_road_name}﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></span> <span style=\"font-size: 14px;\"><exp data-uniqueid=\"c4ee0525_ccdc_fc96_213b_7465e6008542\" data-dsid=\"dataSource_1-18f17086871-layer-20-selection\" data-expression=\"%7B%22name%22%3A%22%7Baddresses_start_street_number%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7Baddresses_start_street_number%7D%22%2C%22dataSourceId%22%3A%22dataSource_1-18f17086871-layer-20-selection%22%2C%22jimuFieldName%22%3A%22addresses_start_street_number%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿{addresses_start_street_number}﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></span> </p><p style=\"text-align: center;\"><strong style=\"font-size: 15px; color: var(--danger-300);\"><exp data-uniqueid=\"4a39b585_9198_5bab_116d_21ca30bc0a89\" data-dsid=\"dataSource_1-18f17086871-layer-20-selection\" data-expression=\"%7B%22name%22%3A%22%7Baddresses_neighborhood_name%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7Baddresses_neighborhood_name%7D%22%2C%22dataSourceId%22%3A%22dataSource_1-18f17086871-layer-20-selection%22%2C%22jimuFieldName%22%3A%22addresses_neighborhood_name%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿{addresses_neighborhood_name}﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></strong>  </p><p style=\"text-align: center;\"><u style=\"color: var(--danger-300); font-size: 13px;\"><exp data-uniqueid=\"1c2ee2f4_4b7f_07df_25ae_726655c12c3b\" data-dsid=\"dataSource_1-18f17086871-layer-20-selection\" data-expression=\"%7B%22name%22%3A%22%7Baddresses_town%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7Baddresses_town%7D%22%2C%22dataSourceId%22%3A%22dataSource_1-18f17086871-layer-20-selection%22%2C%22jimuFieldName%22%3A%22addresses_town%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿{addresses_town}﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></u> </p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        }
+      },
+      "id": "widget_7",
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_1-18f17086871-layer-20",
+          "mainDataSourceId": "dataSource_1-18f17086871-layer-20",
+          "rootDataSourceId": "dataSource_1",
+          "fields": []
+        }
+      ],
+      "useDataSourcesEnabled": true,
+      "style": {
+        "background": {
+          "color": "var(--warning-300)",
+          "fillType": "fill",
+          "image": {
+            "url": ""
+          }
+        },
+        "borderRadius": null,
+        "border": {
+          "color": "var(--primary-600)",
+          "type": "solid",
+          "width": "2px"
+        }
+      }
+    },
+    "widget_8": {
+      "uri": "widgets/common/select/",
+      "version": "1.14.0",
+      "label": "Seleccionar",
+      "config": {
+        "useMap": true,
+        "dataAttributeInfo": {
+          "allowGenerated": false,
+          "dataSourceItems": []
+        },
+        "mapInfo": {
+          "allowGenerated": false,
+          "enableAttributeSelection": false,
+          "jimuMapViews": {
+            "widget_1-dataSource_1": [
+              {
+                "uid": "50332070-0582-11ef-a070-a5b71937ee3b",
+                "sqlHint": "",
+                "useDataSource": {
+                  "dataSourceId": "dataSource_1-18f17086871-layer-20",
+                  "mainDataSourceId": "dataSource_1-18f17086871-layer-20",
+                  "rootDataSourceId": "dataSource_1"
+                },
+                "sqlExpression": null,
+                "jimuLayerViewId": "widget_1-dataSource_1-18f17086871-layer-20"
+              }
+            ]
+          }
+        },
+        "interactiveTools": {
+          "tools": [
+            "rectangle",
+            "polygon",
+            "circle",
+            "polyline",
+            "point"
+          ],
+          "partiallyWithin": true
+        },
+        "spatialSelection": {
+          "enable": true,
+          "useDataSources": [],
+          "relationships": [
+            "Intersects"
+          ],
+          "buffer": {
+            "enable": false,
+            "distance": 0,
+            "unit": "Meters"
+          }
+        }
+      },
+      "id": "widget_8",
+      "dataActions": {
+        "showOnMap": {
+          "config": {
+            "isUseCustomSymbol": true,
+            "symbolOption": {
+              "pointSymbol": {
+                "type": "esriSMS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "angle": 0,
+                "xoffset": 0,
+                "yoffset": 0,
+                "size": 12,
+                "style": "esriSMSCircle",
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                }
+              },
+              "polylineSymbol": {
+                "type": "esriSLS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "width": 0.75,
+                "style": "esriSLSSolid"
+              },
+              "polygonSymbol": {
+                "type": "esriSFS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                },
+                "style": "esriSFSSolid"
+              }
+            }
+          }
+        }
+      },
+      "useMapWidgetIds": [
+        "widget_1"
+      ],
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_1-18f17086871-layer-20",
+          "mainDataSourceId": "dataSource_1-18f17086871-layer-20",
+          "rootDataSourceId": "dataSource_1"
+        }
+      ],
+      "enableDataAction": true
+    },
+    "widget_9": {
+      "uri": "widgets/EstiloKiosko/",
+      "version": "1.14.0",
+      "config": {},
+      "id": "widget_9"
+    }
+  },
+  "widgetsManifest": {},
+  "views": {},
+  "sections": {},
+  "dialogs": {},
+  "dataSources": {
+    "dataSource_1": {
+      "id": "dataSource_1",
+      "type": "WEB_MAP",
+      "sourceLabel": "Kioskos_Marti",
+      "itemId": "cab003f06f6c4da0914fd5c5254e366d",
+      "portalUrl": "https://educacionesri.maps.arcgis.com"
+    }
+  },
+  "messageConfigs": {
+    "messageConfig_1": {
+      "id": "messageConfig_1",
+      "widgetId": "widget_1",
+      "messageType": "EXTENT_CHANGE",
+      "actions": [
+        {
+          "actionId": "filter-data-record-action-1714323855463",
+          "messageWidgetId": "widget_1",
+          "actionName": "filter data record action",
+          "description": null,
+          "config": {
+            "messageUseDataSource": null,
+            "actionUseDataSource": {
+              "dataSourceId": "dataSource_1-18f17086871-layer-20",
+              "mainDataSourceId": "dataSource_1-18f17086871-layer-20",
+              "rootDataSourceId": "dataSource_1"
+            },
+            "sqlExprObj": null,
+            "enabledDataRelationShip": true,
+            "enableQueryWithCurrentExtent": true
+          },
+          "version": "1.14.0",
+          "useDataSources": [
+            {
+              "dataSourceId": "dataSource_1-18f17086871-layer-20",
+              "mainDataSourceId": "dataSource_1-18f17086871-layer-20",
+              "rootDataSourceId": "dataSource_1",
+              "fields": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "pageStructure": [
+    {
+      "page_0": []
+    }
+  ],
+  "timestamp": 1714325507222,
+  "header": {
+    "layout": {
+      "LARGE": "layout_12"
+    },
+    "height": {
+      "LARGE": 75
+    }
+  },
+  "originExbVersion": "1.14.0",
+  "attributes": {
+    "portalUrl": "https://educacionesri.maps.arcgis.com",
+    "isWebTier": false,
+    "clientId": "",
+    "title": "Kiosk_BCN",
+    "description": "",
+    "type": "Web Experience",
+    "thumbnail": "thumbnail/thumbnail1714133352632.jpg"
+  },
+  "sharedThemeVariables": {
+    "header": {},
+    "body": {},
+    "button": {},
+    "logo": {
+      "small": null,
+      "link": null
+    }
+  }
+}
